@@ -1,0 +1,6 @@
+# Go to Directory
+cd /opt/appdata/python-plex
+
+#Example Commads to execute
+sudo python3 plexlibrary movies_trending
+sudo python3 plexlibrary movies_top10
