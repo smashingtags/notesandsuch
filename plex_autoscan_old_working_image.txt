@@ -1,0 +1,7 @@
+
+Original Branch
+sabrsorensen/alpine-plex_autoscan:1df2c05
+
+
+My Docker That should remain unchanged and stable for MHA/PTS
+smashingtags/alpine-plex_autoscan
