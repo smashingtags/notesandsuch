@@ -1,0 +1,3 @@
+https://admin.google.com/yourdomain.com/AdminHome?hl=en#Reports:subtab=apps-usage-activity
+
+login then paste to browser again to see stats
